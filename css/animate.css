@@ -1,0 +1,9 @@
+.btn,
+.nav-link,
+.nav-link:hover,
+.btn:hover,
+.features-list a,
+.features-list a:hover {
+  transition: ease-in-out 0.2s;
+  -webkit-transition: ease-in-out 0.2s;
+}
